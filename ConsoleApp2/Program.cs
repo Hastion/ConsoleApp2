@@ -14,6 +14,7 @@ namespace ConsoleApp2
             Console.Write("Enter your name: ");
             name = Console.ReadLine();
             Console.WriteLine($"Hello {name}");
+            //test po obejrzeniu tutoriala o podstawach git'a
         }
     }
 }
